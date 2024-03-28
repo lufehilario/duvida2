@@ -41,6 +41,11 @@ h3{
     padding: 8px;
 }
 
+h2{
+    padding: 8px;
+    font-size: 1em;
+}
+
 button{
     display: block;
     width: 100%;
@@ -168,7 +173,7 @@ footer > .container{
     }
 
     .celulares{
-        grid-template-columns: repeat (2,38%);
+        grid-template-columns: repeat(2,38%);
     }
     
 }
